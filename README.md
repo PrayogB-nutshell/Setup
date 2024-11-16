@@ -57,7 +57,7 @@ This repository contains the following tools and resources:
 📸 Screenshots
 
 
-Add your screenshots or demo GIFs here!
+<img src="https://i.imgur.com/NW23vJG.png">
 🤝 Contributing
 
 Contributions are welcome!
